@@ -1,0 +1,186 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+.top1 {
+    height: 35px;
+    width: 100%;
+    color: black;
+    font-size: 2rem;
+    font-weight: 550;
+    background-image: linear-gradient( to right,
+    red 0% 13%,
+    green 25% 50%,
+    yellow 80% 100%
+    );
+    text-decoration: underline;
+}
+
+.c2 {
+    width: 60%;
+    height: 70px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px solid red;
+    border-radius: 15px;
+    background-color: rgb(132, 189, 198);
+}
+
+.l1 {
+    margin-top: 6px;
+}
+
+.c3 {
+    margin-right: 0;
+    margin-left: 0;
+    border: 1px solid brown;
+    border-radius: 15px;
+    background-color: rgb(47, 234, 193);
+}
+
+.c3f1 {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.fc {
+    width: 400px;
+    height: 90px;
+    border: 2px solid green;
+    background-color: cyan;
+    border-radius: 10px;
+    font-size: 15px; 
+}
+
+.c4 {
+    height: 30px;
+    margin-top: 30px;
+    background-image: linear-gradient( to right,
+        red,
+        yellow,
+        red
+    );
+    color: black;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.c5 {
+    margin-top: 10px;
+    background-image: radial-gradient(
+        blue 0% 40%,
+        rgb(26, 243, 117) 85% 100%
+    );
+    border: 2px solid green;
+}
+
+.c5f1 {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding: 70px;
+}
+
+.fi1 {
+    width: 230px;
+    height: 120px;
+    font-weight: 550;
+    background-color: yellow;
+    color: brown;
+    border: 2px solid brown;
+    border-radius: 10px;
+    text-decoration: underline;
+
+}
+
+.c6 {
+    margin-top: 30px;
+    height: 45px;
+    font-size: 20px;
+    background-color: rgb(240, 83, 83);
+    color: white;
+    font-weight: 700;
+}
+
+.c7 {
+    width: 85%;
+}
+
+.c7f1 {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.fi2 {
+    margin-top: 12px;
+    width: 400px;
+    height: 60px;
+    font-size: 23px;
+    color: white;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+.skyBlue {
+background-color: skyblue;
+}
+
+.violet {
+    background-color: rgb(78, 56, 187);
+}
+.fix1 {
+    text-align: left;
+    background-color: orange;
+    height: 110px;
+    color: white;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 550;
+}
+
+.c8 {
+text-align: left; 
+font-size: 20px;  
+width: 13%;
+position: absolute;
+background-color: rgb(31, 29, 29);
+color: white;
+top: 743px;
+left: 1250px;
+
+
+
+padding: 3px;
+}
+
+.c9 {
+    
+    background: cyan;
+    font-weight: 550;
+    margin: 12px;
+    margin-bottom: 35px;
+
+
+}
+
+hr {
+    margin: 2px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
